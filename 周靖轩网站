@@ -1,0 +1,30 @@
+<body>
+	  <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:50px
+    ">
+      <img src="https://www.com8.cn/wp-content/uploads/2020/05/20200518105846-5ec26a6620de6.jpg" alt="ljs" width="49px" height= "49px"> 
+    </div>
+    <div style="
+    max-width:700px;
+    margin: 30px auto;
+    padding:15px;
+    line-height:2.0">
+      <p>我是周靖轩，一个中国山东的学生。</p>
+      <p>现在在泰安上学</p>
+      <p>现在还在家里敲键盘</p>
+      <p>家里有架钢琴</p>
+      <p>想有一个vr眼镜</p>
+      <p>长大了想当程序员</p>
+      <p>希望尽早下发压岁钱 /heart</p>
+    </div>
+    <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:80px
+    ">
+    <p>我的网站：版权归属周靖轩，未经受权禁止转载，侵权必究。</p>
+    <a href="十分钟学会写网页【编程前端入门】">kwc第四节课链接</a>
+    </div>
+  </body>
